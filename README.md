@@ -79,3 +79,11 @@ The files [`COPYING.BSD`](./COPYING.BSD), [`COPYING.APACHE`](./COPYING.APACHE) a
 - [riscvOVPsim](https://github.com/riscv-ovpsim/imperas-riscv-tests): Imperas freeware RISC-V reference simulator for compliance testing
 - [riscvOVPsimPlus](https://www.ovpworld.org/riscvOVPsimPlus/): Imperas enhanced freeware RISC-V reference simulator for test development and verification
 
+
+## Additional Infos
+### Problem Pull-Request riscv-arch-tests
+Don't perform the pull request in riscv-arch-tests!!
+It would do a pull-request to the repository from which I forked riscv-arch-tests.
+
+
+
